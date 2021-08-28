@@ -1,7 +1,7 @@
 - 👋 Hola, me llamo Lucía Gálvez
 - 👀 Estoy interesada en el desarrollo de aplicaciones móviles
 - 🌱 Actualmente estoy aprendiendo a desarrollar aplicaciones Android con Kotlin
-- 💞️ Próximamente espero poder dar el salto y aprender a desarrollar aplicaciones para iOS
+- 💞️ Próximamente espero aprender a desarrollar aplicaciones para iOS
 - 📫 Puedes contactarme en lucia.galudev@gmail.com
 
 <!---
