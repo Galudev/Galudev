@@ -1,3 +1,4 @@
+<!---
 - 👋 Hola, me llamo Lucía Gálvez
 - 👀 Estoy interesada en el desarrollo de aplicaciones móviles
 - 🌱 Actualmente estoy aprendiendo a desarrollar aplicaciones Android con Kotlin
