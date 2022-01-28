@@ -1,6 +1,6 @@
 Hola, me llamo Lucía.
 
-Me apasiona la tecnología y tengo muchas ganas de crecer tanto personal como profesionalmente en esta área, sobre todo en el campo de la programación. En la universidad aprendí a programar con C++, y desde entonces he ido descubriendo todo lo que la programación nos puede ofrecer. Actualmente estoy aprendiendo de forma autodidacta a desarrollar aplicaciones Android con Kotlin.
+Me apasiona la tecnología y tengo muchas ganas de crecer tanto personal como profesionalmente en esta área, sobre todo en el campo de la programación. En la universidad aprendí a programar con C++ y desde entonces he ido descubriendo todo lo que la programación nos puede ofrecer. Actualmente estoy aprendiendo de forma autodidacta a desarrollar aplicaciones Android con Kotlin.
 
 Información de contacto:
 
