@@ -8,6 +8,7 @@ Me apasiona la tecnología y tengo muchas ganas de crecer tanto personal como pr
 Información de contacto:
 
 [LinkedIn](https://www.linkedin.com/in/luciagalvezduran/)
+
 Correo electrónico: lucia.galudev@gmail.com
 
 
