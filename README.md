@@ -25,3 +25,5 @@ Algunos de los retos que he resuelto en Kotlin son:
 [¿ES UN NÚMERO PRIMO?](https://github.com/Galudev/Weekly-Challenge-2022-Kotlin/blob/main/app/src/main/java/com/mouredev/weeklychallenge2022/Challenge3.kt)
 
 [ÁREA DE UN POLÍGONO](https://github.com/Galudev/Weekly-Challenge-2022-Kotlin/blob/main/app/src/main/java/com/mouredev/weeklychallenge2022/Challenge4.kt)
+
+También puedes echar un vistazo a la app que estoy realizando actualmente, un [Coloca 4]{https://github.com/Galudev/Coloca4} en fase MVP. El código recibirá actualizaciones periódicas para mejorar sus funcionalidades y diseño.
