@@ -1,5 +1,4 @@
 Hola, me llamo Lucía.
-
 Me apasiona la tecnología y tengo muchas ganas de crecer tanto personal como profesionalmente en esta área, sobre todo en el campo de la programación. En la universidad aprendí a programar con C++ y desde entonces he ido descubriendo todo lo que la programación nos puede ofrecer. Actualmente estoy aprendiendo de forma autodidacta a desarrollar aplicaciones Android con Kotlin.
 
 
@@ -26,4 +25,4 @@ Algunos de los retos que he resuelto en Kotlin son:
 
 [ÁREA DE UN POLÍGONO](https://github.com/Galudev/Weekly-Challenge-2022-Kotlin/blob/main/app/src/main/java/com/mouredev/weeklychallenge2022/Challenge4.kt)
 
-También puedes echar un vistazo a la app que estoy realizando actualmente, un [Coloca 4]{https://github.com/Galudev/Coloca4} en fase MVP. El código recibirá actualizaciones periódicas para mejorar sus funcionalidades y diseño.
+También puedes echar un vistazo a la app que estoy realizando actualmente, un [Coloca 4](https://github.com/Galudev/Coloca4) en fase MVP. El código recibirá actualizaciones periódicas para mejorar sus funcionalidades y diseño.
