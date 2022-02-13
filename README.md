@@ -25,4 +25,6 @@ Algunos de los retos que he resuelto en Kotlin son:
 
 [ÁREA DE UN POLÍGONO](https://github.com/Galudev/Weekly-Challenge-2022-Kotlin/blob/main/app/src/main/java/com/mouredev/weeklychallenge2022/Challenge4.kt)
 
-También puedes echar un vistazo a la app que estoy realizando actualmente, un [Coloca 4](https://github.com/Galudev/Coloca4) siguiendo las especificaciones del reto mensual de Mouredev. El código recibirá actualizaciones periódicas para mejorar su funcionalidad y diseño antes de su publicación en la PlayStore.
+/n/n/n
+
+¡Mi primera app ya está aquí! Se trata de un Coloca 4 cuyo código está disponible [aquí](https://github.com/Galudev/Coloca4), aunque tamnién está disponible para su descarga en la [play store](https://play.google.com/store/apps/details?id=com.galudev.coloca4).
