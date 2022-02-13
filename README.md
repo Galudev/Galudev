@@ -7,7 +7,7 @@ Me apasiona la tecnología, sobre todo la programación. Actualmente estoy apren
 ## Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucía_Gálvez_Durán-0077B5?&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/luciagalvezduran/)
 
-[![Correo](https://img.shields.io/badge/Gmail-lucia.galudev@gmail.com-EC5252?&logo=gmail&logoColor=white&labelColor=101010)](mailto:lucia.galudev@gmail.com?)
+[![Email](https://img.shields.io/badge/Email-lucia.galudev@gmail.com-EC5252?&logo=gmail&logoColor=white&labelColor=101010)](mailto:lucia.galudev@gmail.com?)
 
 
 ## Coloca 4
