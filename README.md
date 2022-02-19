@@ -13,6 +13,13 @@ Me apasiona la tecnología, sobre todo la programación. Actualmente estoy apren
 ## Coloca 4
 ¡Mi primera app ya disponible en [play store](https://play.google.com/store/apps/details?id=com.galudev.coloca4)! Puedes consultar su código [aquí](https://github.com/Galudev/Coloca4)
 
+<div align="center">
+    <img src="https://github.com/Galudev/Images/blob/main/Screen2.png" width="300px"</img> 
+    <img src="https://github.com/Galudev/Images/blob/main/Screen3.png" width="300px"</img> 
+</div> 
+
+Cuenta con el uso de shared preferences, animaciones...
+
 ## Retos Kotlin
 
 ["FIZZ BUZZ"](https://github.com/Galudev/Weekly-Challenge-2022-Kotlin/blob/main/app/src/main/java/com/mouredev/weeklychallenge2022/Challenge0.kt)
