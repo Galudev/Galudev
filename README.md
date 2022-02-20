@@ -18,7 +18,7 @@ Me apasiona la tecnología, sobre todo la programación. Actualmente estoy apren
     <img src="https://github.com/Galudev/Images/blob/main/Screen3.png" width="300px"</img> 
 </div> 
 
-Cuenta con el uso de shared preferences, animaciones...
+Cuenta con el uso de shared preferences, animaciones, anuncios con AdMod...
 
 ## Retos Kotlin
 
