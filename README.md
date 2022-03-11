@@ -11,7 +11,7 @@ Me apasiona la tecnología, sobre todo la programación. Actualmente estoy apren
 
 
 ## Coloca 4
-¡Mi primera app ya disponible en [play store](https://play.google.com/store/apps/details?id=com.galudev.coloca4)! Puedes consultar su código [aquí](https://github.com/Galudev/Coloca4_)
+¡Mi primera app ya disponible en [play store](https://play.google.com/store/apps/details?id=com.galudev.coloca4)! Puedes consultar su código [aquí](https://github.com/Galudev/Coloca4)
 
 <div align="center">
     <img src="https://github.com/Galudev/Images/blob/main/Screen2.png" width="300px"</img> 
