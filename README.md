@@ -14,8 +14,8 @@ Me apasiona la tecnología, sobre todo la programación. Actualmente estoy apren
 ¡Mi primera app ya disponible en [play store](https://play.google.com/store/apps/details?id=com.galudev.coloca4)! Puedes consultar su código [aquí](https://github.com/Galudev/Coloca4)
 
 <div align="center">
-    <img src="https://github.com/Galudev/Images/blob/main/Screen2.png" width="300px"</img> 
-    <img src="https://github.com/Galudev/Images/blob/main/Screen3.png" width="300px"</img> 
+    <img src="https://github.com/Galudev/Images/blob/main/Captura%206.png" width="300px"</img> 
+    <img src="https://github.com/Galudev/Images/blob/main/Captura%205.png" width="300px"</img> 
 </div> 
 
 Cuenta con el uso de shared preferences, animaciones, anuncios con AdMod...
