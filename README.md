@@ -1,6 +1,6 @@
 # Hola, me llamo Lucía.
 
-### Programadora Android 
+### Graduada en física || Programadora
 
 Me apasiona la tecnología, sobre todo la programación. Actualmente estoy aprendiendo de forma autodidacta a desarrollar aplicaciones Android con Kotlin.
 
