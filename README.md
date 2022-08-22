@@ -2,9 +2,9 @@
 
 ### Graduada en física || Programadora
 
-Me apasiona la tecnología, sobre todo la programación. Actualmente estoy aprendiendo de forma autodidacta a desarrollar aplicaciones Android con Kotlin.
+Me apasiona la tecnología, sobre todo la programación. Actualmente me encuentro desarrollando una página web que simula una tienda de muebles, puedes encontrar su código fuente [aquí](https://github.com/Galudev/shop)
 
-## Contacto
+### Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucía_Gálvez_Durán-0077B5?&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/luciagalvezduran/)
 
 [![Email](https://img.shields.io/badge/Email-lucia.galudev@gmail.com-EC5252?&logo=gmail&logoColor=white&labelColor=101010)](mailto:lucia.galudev@gmail.com?)
