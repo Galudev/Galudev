@@ -2,7 +2,7 @@
 
 ### Graduada en física || Programadora
 
-Me apasiona la tecnología, sobre todo la programación. Actualmente me encuentro desarrollando una página web que simula una tienda de muebles, puedes encontrar su código fuente [aquí](https://github.com/Galudev/shop)
+Me apasiona la tecnología, sobre todo la programación. Actualmente me encuentro desarrollando una página web que simula una tienda de muebles, puedes consultar el código fuente tanto del [fronend](https://github.com/Galudev/shop) realizado con React, como del [backend](https://github.com/Galudev/shop-backend) realizado con Node usando Express y MongoDB.
 
 ### Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucía_Gálvez_Durán-0077B5?&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/luciagalvezduran/)
