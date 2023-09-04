@@ -2,7 +2,9 @@
 
 ### Graduada en física || Programadora
 
-Me apasiona la tecnología, sobre todo la programación. Actualmente me encuentro desarrollando una página web que simula una tienda de muebles, puedes consultar el código fuente tanto del [fronend](https://github.com/Galudev/shop) realizado con React, como del [backend](https://github.com/Galudev/shop-backend) realizado con Node usando Express y MongoDB.
+Me apasiona la tecnología, sobre todo la programación. En Septiembre de 2022 me adentré profesionalmete en el campo de la automatización de pruebas con Selenium y SoapUI, así como en el desarrollo de microservicios con SpringBoot, realizando diferentes proyectos en Java y utilizando bases de datos de Oracle.
+
+Anteriormente realicé un proyecto personal sobre una página web que simula una tienda de muebles, puedes consultar el código fuente tanto del [frontend](https://github.com/Galudev/shop) realizado con React, como del [backend](https://github.com/Galudev/shop-backend) realizado con Node usando Express y MongoDB.
 
 ### Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucía_Gálvez_Durán-0077B5?&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/luciagalvezduran/)
@@ -11,23 +13,9 @@ Me apasiona la tecnología, sobre todo la programación. Actualmente me encuentr
 
 
 ## Coloca 4
-¡Mi primera app ya disponible en [play store](https://play.google.com/store/apps/details?id=com.galudev.coloca4)!
+¡Mi primera app ya disponible en [play store](https://play.google.com/store/apps/details?id=com.galudev.coloca4)! Realizada en android nativo con Kotlin.
 
 <div align="center">
     <img src="https://github.com/Galudev/Images/blob/main/Captura%206.png" width="300px"</img> 
     <img src="https://github.com/Galudev/Images/blob/main/Captura%205.png" width="300px"</img> 
 </div> 
-
-Cuenta con el uso de shared preferences, Firebase, anuncios con AdMod...
-
-## Retos Kotlin
-
-["FIZZ BUZZ"](https://github.com/Galudev/Weekly-Challenge-2022-Kotlin/blob/main/app/src/main/java/com/mouredev/weeklychallenge2022/Challenge0.kt)
-
-[¿ES UN ANAGRAMA?](https://github.com/Galudev/Weekly-Challenge-2022-Kotlin/blob/main/app/src/main/java/com/mouredev/weeklychallenge2022/Challenge1.kt)
-
-[LA SUCESIÓN DE FIBONACCI](https://github.com/Galudev/Weekly-Challenge-2022-Kotlin/blob/main/app/src/main/java/com/mouredev/weeklychallenge2022/Challenge2.kt)
-
-[¿ES UN NÚMERO PRIMO?](https://github.com/Galudev/Weekly-Challenge-2022-Kotlin/blob/main/app/src/main/java/com/mouredev/weeklychallenge2022/Challenge3.kt)
-
-[ÁREA DE UN POLÍGONO](https://github.com/Galudev/Weekly-Challenge-2022-Kotlin/blob/main/app/src/main/java/com/mouredev/weeklychallenge2022/Challenge4.kt)
